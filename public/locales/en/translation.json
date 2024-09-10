@@ -1,0 +1,21 @@
+{
+    "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+    },
+    "about": {
+        "title": "About Us",
+        "description": "Welcome to Argaam",
+        "info": "Since 2001, we have been dedicated to provide top-notch tech solutions"
+    },
+    "contact": {
+        "heading": "Contact Us",
+        "body": "Contact us on all Social Media platforms"
+    },
+    "greeting": "Hello, How are you?",
+    "intro": {
+        "line1": "This is Shehab",
+        "line2": "Making a Multi Lang App"    
+    }
+}
